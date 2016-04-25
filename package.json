@@ -6,16 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HwasooSung/earyomee.git"
-  },
+  // "repository": {
+  //   "type": "git",
+  //   "url": "git+https://github.com/HwasooSung/earyomee.git"
+  // },
   "author": "Hwasoo Sung",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HwasooSung/earyomee/issues"
-  },
-  "homepage": "https://github.com/HwasooSung/earyomee#readme",
+  // "bugs": {
+  //   "url": "https://github.com/HwasooSung/earyomee/issues"
+  // },
+  // "homepage": "https://github.com/HwasooSung/earyomee#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"
