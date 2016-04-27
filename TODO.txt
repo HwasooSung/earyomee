@@ -1,0 +1,13 @@
+/*
+ * gulp까지 만들어놓음
+ * 
+ * test case 만들어보고
+ * 간단한 controller 만들어보기
+ * 
+ */
+ 
+ 4/27
+  model 만들음
+  mongodb connect 하는 법 알음 with mongoose
+  controller 틀 잡아놓음
+  복잡하게 하지 않겠다는 생각을 함
