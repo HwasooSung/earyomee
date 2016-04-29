@@ -11,3 +11,19 @@
   mongodb connect 하는 법 알음 with mongoose
   controller 틀 잡아놓음
   복잡하게 하지 않겠다는 생각을 함
+  
+4/28
+  jshint 하다 말음
+  
+4/29
+  jshint 와 jscs(javascript coding style) 차이를 앎 
+  안쓰려다가 쓸거임!
+  gulp 쓰는 법 공부함 
+  
+  /*
+   * gulp-mocha 해봐야함! 개궁굼!
+   * post 부분 작성해보고
+   * test case 만들어보기
+   *
+  */ 
+  

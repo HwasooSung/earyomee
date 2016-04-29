@@ -21,7 +21,6 @@ dbEvent.once('open', function () {
   console.log('mongodb connected!');
 });
 
-
 app.use('/api', routes);
 
 app.listen(8888, function () {
